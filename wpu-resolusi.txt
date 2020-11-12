@@ -1,4 +1,3 @@
 1. belajar dasar programing
 2. mengerti git dan github
-3. mengerti app
-4. mengerti shop
+3. belajar framework
